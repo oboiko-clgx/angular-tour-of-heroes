@@ -11,5 +11,8 @@
       ],
       "dependencyDashboardApproval": true
     }
+  ],
+  "baseBranches": [
+    "next"
   ]
 }
